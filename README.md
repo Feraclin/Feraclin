@@ -55,7 +55,7 @@
 
 ### Прогресс на LeetCode
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Feraclin?theme=dark&font=montserrat)
+<img src="https://leetcard.jacoblin.cool/Feraclin?theme=dark&font=Montserrat&ext=activity" alt="LeetCode Stats" width="40%">
 
 
 
