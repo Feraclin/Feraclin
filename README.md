@@ -12,7 +12,7 @@
 
 ## Прогресс на LeetCode
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Feraclin?theme=dark&font=Kenia&ext=activity)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Feraclin?theme=dark&font=Kenia)
 
 ## Навыки
 + Языки программирования
